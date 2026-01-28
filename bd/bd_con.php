@@ -5,7 +5,6 @@
             die("connection failed:".$db->connect_error);
         }
         else{
-            // die ("connection success");
         }
        
     
